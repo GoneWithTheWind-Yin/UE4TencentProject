@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5866E139-4040-F4CD-F763-3DBE4581EAD3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4TencentProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
